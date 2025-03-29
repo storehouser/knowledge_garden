@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
 This is Test Message
