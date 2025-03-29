@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c/c-home/"}
+{"dg-publish":true,"permalink":"/c/c-home/","noteIcon":""}
 ---
 
-C++ Home
+C++ Contents test
